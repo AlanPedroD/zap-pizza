@@ -6,7 +6,7 @@
 'use strict';
 
 /* ─── CONFIGURAÇÃO ────────────────────────────────────── */
-const WHATSAPP_NUMBER = '5511999999999'; // ← Troque pelo seu número (com código do país)
+const WHATSAPP_NUMBER = '5582988919827'; // ← Troque pelo seu número (com código do país)
 
 /* ─── DADOS DO CARDÁPIO ──────────────────────────────── */
 const MENU_ITEMS = [
